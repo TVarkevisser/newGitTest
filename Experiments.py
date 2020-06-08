@@ -2,7 +2,9 @@
 """
 Created on Tue May  5 14:06:56 2020
 
-@author: Colin Meulblok
+@author: Colin Meulblok 
+
+TEST
 """
 import numpy as np
 import matplotlib
