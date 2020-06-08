@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 23 17:10:24 2020
 
-@author: Colin Meulblok
+@author: Colin Meulblok & Thijs Varkevisser
 """
 
 import numpy as np
